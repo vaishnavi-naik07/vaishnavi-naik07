@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Professional Summary:
 👩🏻‍💻 About Me<br>- 🎓 Information Technology Engineering Student<br>- 💻 Passionate about Software Development and Problem-Solving<br>- 🚀 Building practical applications and exploring new technologies<br>- 🧠 Interested in Data Structures, Algorithms, and AI-driven solutions<br>- 🌱 Constantly learning, experimenting, and improving through hands-on projects<br><br>🛠️ Tech Stack<br>- 💻 Languages: Java, JavaScript, Python, C, SQL<br>- 🌐 Frontend: HTML, CSS, React.js<br>- ⚙️ Backend: Node.js, Express.js, Spring Boot<br>- 🗄️ Databases: MongoDB, MySQL<br>- 🔧 Tools: Git, GitHub, VS Code<br>- 🤖 Exploring: Machine Learning, AI/ML<br><br>🎯 Current Focus<br>- Strengthening DSA and problem-solving skills<br>- Building full-stack applications<br>- Exploring AI and emerging technologies<br><br>✨ My Philosophy: Learn continuously. Build consistently. Improve relentlessly.
 
 
